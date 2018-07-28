@@ -35,7 +35,7 @@ sendspace\.com
 ://s\.id/
 webredirect\.org
 ://flyt\.it/
-\.pl.ua
+\.pl\.ua
 ://tny\.im/
 \.16mb\.com
 \.ulcraft\.com
